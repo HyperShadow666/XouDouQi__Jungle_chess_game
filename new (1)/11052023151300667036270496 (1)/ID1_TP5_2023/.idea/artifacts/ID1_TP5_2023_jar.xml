@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ID1_TP5_2023:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ID1_TP5_2023_jar</output-path>
+    <root id="archive" name="ID1_TP5_2023.jar">
+      <element id="module-output" name="ID1_TP5_2023" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/h2-2.1.214.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

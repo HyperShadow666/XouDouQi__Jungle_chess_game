@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/new (1)/11052023151300667036270496 (1)/ID1_TP5_2023/lib/poi-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/new (1)/11052023151300667036270496 (1)/ID1_TP5_2023/lib/h2-2.1.214.jar!/" />
+      <root url="jar://$PROJECT_DIR$/new (1)/11052023151300667036270496 (1)/ID1_TP5_2023/lib/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
